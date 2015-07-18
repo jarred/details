@@ -4,6 +4,7 @@
 - Kris Lane
 - Kris Sowersby
 - Jamie McLellan
+- Nick Shaw
 - Andy Hovey
 - Duncan Forbes
 - Folkert Gorter
