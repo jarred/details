@@ -1,0 +1,17 @@
+{
+  "name": "details",
+  "version": "0.0.1",
+  "description": "Design details blog",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@jarred",
+  "license": "ISC",
+  "dependencies": {
+    "basscss": "^7.0.0",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.1",
+    "youtube-video": "0.0.5"
+  }
+}
